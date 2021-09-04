@@ -80,6 +80,7 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 
 * [ ] Open the folder in your coding IDE.
 * [ ] Make a change in a file.
+## CHANGE MADE FOR TESTING PURPOSES RM 9.3.21 @2205
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
 
